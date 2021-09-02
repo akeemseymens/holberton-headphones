@@ -95,13 +95,13 @@ Good job!
 
 Scaling, opacity, rotation, bouncing… many options!
 
-<!-- ### [8. And SASS?? ](./102-styles.scss)
+### [8. And SASS?? ](./102-styles.scss)
 
 - Take your 101-styles.css file and create a 102-styles.scss that will be the SASS version of it.
 
 \$ sass 102-styles.scss > 101-styles.css
 
---- -->
+---
 
 ## Author
 
