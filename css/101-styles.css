@@ -300,7 +300,7 @@ main .grid .element h2 {
  
 }
 
-.element:hover {
+ .poly:hover {
   animation: poly-pulse 0.5s ease-out;
 }
 
